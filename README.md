@@ -77,16 +77,16 @@ Guardrails:
 - No unsupported investment advice
 - Human confirmation for unresolved differences
 
-## Planned repository map
+## Repository map
 
-- `docs/product-overview.md`
-- `docs/data-model.md`
-- `docs/reconciliation-flow.md`
-- `docs/exception-taxonomy.md`
-- `docs/reporting-and-versioning.md`
-- `docs/ai-data-copilot.md`
-- `data/sample_transactions.csv`
-- `sql/reconciliation-example.sql`
+- [`docs/product-overview.md`](docs/product-overview.md) — users, scope and module definitions
+- [`docs/data-model.md`](docs/data-model.md) — core entities and relationships
+- [`docs/reconciliation-flow.md`](docs/reconciliation-flow.md) — operational reconciliation workflow
+- [`docs/exception-taxonomy.md`](docs/exception-taxonomy.md) — difference classification
+- [`docs/reporting-and-versioning.md`](docs/reporting-and-versioning.md) — report lineage and auditability
+- [`docs/ai-data-copilot.md`](docs/ai-data-copilot.md) — source-grounded AI interaction model
+- [`data/sample_transactions.csv`](data/sample_transactions.csv) — synthetic transaction sample
+- [`sql/reconciliation-example.sql`](sql/reconciliation-example.sql) — example reconciliation query
 
 ## Portfolio connection
 

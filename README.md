@@ -6,6 +6,9 @@ A product case study for a tokenized short-duration Treasury-style investment pr
 **Focus:** RWA · Tokenization · NAV · Position · Reconciliation · Financial Data · AI Data Copilot  
 **Artifacts:** Product model · Reconciliation flow · Data model · Exception handling · Proposed metrics
 
+**Portfolio:** [Valarie Yang — Product Portfolio](https://www.figma.com/design/pIUP2RYiUR3fpGoKHjRGnU/Valarie-Yang-%E2%80%94-Product-Portfolio?node-id=0-1)  
+**Profile:** [LinkedIn](https://www.linkedin.com/in/valarie-yang-08573b122/) · [GitHub](https://github.com/valarie-yang)
+
 > This is a portfolio reconstruction using synthetic examples and publicly explainable product patterns. It contains no confidential company data and is not presented as a live regulated investment product.
 
 ## My role and scope
